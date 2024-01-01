@@ -3,6 +3,10 @@
 
 Your go-to light **web builder** for effortlessly creating stunning articles, blogs, and static pages. With an intuitive drag-and-drop interface, WebX empowers users to design their online content without the need for coding expertise. Craft engaging narratives, showcase visuals, and build a captivating online presence seamlessly.
 
+<p align="center">
+  <img src="https://i.imgur.com/nyqhoIh.png" alt="Demo" width="738">
+</p>
+
 ## Features
 
 - **Drag-and-Drop Interface**: Easily create content with a user-friendly drag-and-drop interface.
@@ -35,25 +39,25 @@ Your go-to light **web builder** for effortlessly creating stunning articles, bl
 
 - Clone the Repository:
 
-   ```bash
+   ```sh
      git clone
    ```
 
 - Navigate to the Project Directory::
 
-   ```bash
+   ```sh
    cd web-x
    ```
 
 - Install Dependencies:
 
-   ```bash
+   ```sh
    npm install
    ```
 
 - Run the Development Server:
 
-   ```bash
+   ```sh
     npm start
    ```
   Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
