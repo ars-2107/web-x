@@ -24,10 +24,7 @@
     "web-vitals": "^2.1.4"
   },
   "browser": {
-    "./rng.js": "./rng-browser.js",
-    "fs": false,
-    "os": false,
-    "path": false
+    "./rng.js": "./rng-browser.js"
   },
   "scripts": {
     "start": "react-scripts start",
