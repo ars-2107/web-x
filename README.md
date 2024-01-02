@@ -11,7 +11,7 @@ Your go-to light **web builder** for effortlessly creating stunning articles, bl
 
 - **Drag-and-Drop Interface**: Easily create content with a user-friendly drag-and-drop interface.
 
-- **Themes and Templates**: Choose from a variety of themes and templates to kickstart your design.
+- **Themes**: Choose from a variety of themes.
 
 - **Content Reordering**: Easily rearrange content elements to achieve the perfect layout. Drag and drop to reorder sections effortlessly.
 
