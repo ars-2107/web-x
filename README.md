@@ -40,7 +40,7 @@ Your go-to light **web builder** for effortlessly creating stunning articles, bl
 - Clone the Repository:
 
    ```sh
-     git clone
+   git clone
    ```
 
 - Navigate to the Project Directory::
@@ -58,7 +58,7 @@ Your go-to light **web builder** for effortlessly creating stunning articles, bl
 - Run the Development Server:
 
    ```sh
-    npm start
+   npm start
    ```
   Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
