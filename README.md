@@ -23,7 +23,6 @@ Your go-to light **web builder** for effortlessly creating stunning articles, bl
 ## Built With
 
 - **[React](https://reactjs.org/)**
-- **[Node.js](https://nodejs.org/)**
 - **[React Router](https://reactrouter.com/)**
 - **[Redux](https://redux.js.org/)**
 - **[Handlebars](https://handlebarsjs.com/)**
@@ -40,7 +39,7 @@ Your go-to light **web builder** for effortlessly creating stunning articles, bl
 - Clone the Repository:
 
    ```sh
-   git clone
+   git clone https://github.com/ars-2107/web-x.git
    ```
 
 - Navigate to the Project Directory::
